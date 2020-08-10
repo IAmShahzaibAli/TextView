@@ -1,5 +1,3 @@
 # TextView
-Customization of TextView in Android SDK
-# Classes Used
- Spannable
- 
+Customization of TextView in Android Sdk with Spannable Class
+
